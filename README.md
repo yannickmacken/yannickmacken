@@ -6,7 +6,7 @@ I have over four years of professional experience developing tooling and busines
 🦾 **Technologies**\
 Python, C# / .NET, TypeScript, JavaScript, react.js, React Native, FastAPI, Supabase, Firebase, PostgreSQL, PostGIS, SQLite, MongoDB / NoSQL, Google Cloud Platform, AWS, pandas, openAI API, REST APIs, alembic, Asyncio, git, OAuth2.0, GitLab / GitHub, expo, railway, ORM, Docker, Postman
 
-🔗**Links**\
+🔗 **Links**\
 [🌐 github](https://github.com/yannickmacken) \
 [🌐 medium](https://medium.com/@yannickmacken) \
 [🌐 linkedIn](https://www.linkedin.com/in/yannickmacken/)
